@@ -1,0 +1,4 @@
+Este arquivo tem formatação ruim
+    tem    espaços    extras
+e quebras de linha inconsistentes
+

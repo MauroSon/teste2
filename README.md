@@ -36,5 +36,6 @@ npm run format
 ## Workflow
 
 O workflow de CI executa automaticamente em:
+
 - Push para branches `main` ou `develop`
 - Pull requests para branches `main` ou `develop`
